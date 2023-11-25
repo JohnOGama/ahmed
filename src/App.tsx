@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import CardTask from "./components/CardTask";
 import PIC1 from "./assets/Ellipse 3.png";
 import PIC2 from "./assets/Ellipse 4.png";

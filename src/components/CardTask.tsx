@@ -1,4 +1,4 @@
-import React, { useRef, useState, useEffect } from "react";
+import { useRef, useState, useEffect } from "react";
 import ProfileIcon from "./ProfileIcon";
 import { Service } from "../utils/types";
 import KPis from "./KPIs";
